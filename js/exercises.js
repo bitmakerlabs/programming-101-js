@@ -1,17 +1,13 @@
-// Printing output
+var list = ["apples", "oranges", "lemons"]
 
-// Strings
+// Loop through the list and print each of the items
 
-// Numbers
 
-// Arrays
+// Add "bananas" to the list
 
-// Objects
 
-// Variables
+// Loop through the list and print each of the items again
 
-// Expressions
 
-// Loops
-
-// Functions
+// Examine your code thus far - is there is any code that is repeated and does the same thing?
+// If so, create a function for that block of code
