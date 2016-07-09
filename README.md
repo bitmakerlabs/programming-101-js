@@ -1,6 +1,6 @@
-# Programming 101 - Day 2 - Javascript
+# Programming 101 - Javascript
 
-Day two of a weekend workshop at Bitmaker that introduces all of the concepts required to build a simple web application. We will explore all the aspects involved in basic web development, namely HTML, Cascading Style Sheets (CSS) and an introduction to some basic JavaScript.
+A weekend workshop at Bitmaker that introduces all of the concepts required to build a simple web application. We will explore all the aspects involved in basic web development, namely HTML, Cascading Style Sheets (CSS) and an introduction to some basic JavaScript.
 
 ## Getting setup
 
@@ -10,8 +10,8 @@ We'll do our best to keep the tools to a minimum so you can focus on the concept
 
 Once you have an account at Cloud9, set up a new workspace:
 
-* Name your workspace "programming-101-day-2"
-* Within the section labeled "Clone from Git or Mercurial URL (optional)" paste the following url: https://github.com/bitmakerlabs/programming-101-day-2
+* Name your workspace "programming-101-js"
+* Within the section labeled "Clone from Git or Mercurial URL (optional)" paste the following url: https://github.com/bitmakerlabs/programming-101-js
 * Select "custom" as the workspace type
 
 ## Today's Goals
