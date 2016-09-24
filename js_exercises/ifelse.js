@@ -1,5 +1,6 @@
 // Exercises: if/else statements
 
+
 // EXERCISE: What number's bigger?
 
 // Write a function named greaterNum that:

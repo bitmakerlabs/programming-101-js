@@ -1,5 +1,6 @@
 // Exercises: Arrays
 
+
 // EXERCISE: Your top choices
 
 // Create an array to hold your top choices (colors, presidents, whatever).

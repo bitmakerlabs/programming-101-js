@@ -1,11 +1,5 @@
 // Exercises: Variables
 
-// EXERCISE: The Fortune Teller
-
-// Why pay a fortune teller when you can just program your fortune yourself?
-
-// Store the following into variables: job title, geographic location, partner's name, number of children.
-// Output your fortune to the screen like so: "You will be a X in Y, and married to Z with N kids."
 
 // EXERCISE: The Age Calculator
 
