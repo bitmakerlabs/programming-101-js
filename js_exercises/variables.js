@@ -10,6 +10,7 @@
 // Calculate their age based on the stored values.
 // Output them to the screen like so: "They are NN years old.", substituting the values.
 
+
 // EXERCISE: The Lifetime Supply Calculator
 
 // Ever wonder how much a "lifetime supply" of your favorite snack is? Wonder no more!
@@ -20,13 +21,6 @@
 // Calculate how many you would eat total for the rest of your life.
 // Output the result to the screen like so: "You will need NN to last you until the ripe old age of X".
 
-// EXERCISE: The Geometrizer
-
-// Calculate properties of a circle, using the definitions here.
-
-// Store a radius into a variable.
-// Calculate the circumference based on the radius, and output "The circumference is NN".
-// Calculate the area based on the radius, and output "The area is NN".
 
 // EXERCISE: The Temperature Converter
 

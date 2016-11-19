@@ -3,9 +3,8 @@
 
 // EXERCISE: Your top choices
 
-// Create an array to hold your top choices (colors, presidents, whatever).
-// For each choice, log to the screen a string like: "My #1 choice is blue."
-// Bonus: Change it to log "My 1st choice, "My 2nd choice", "My 3rd choice", picking the right suffix for the number based on what it is.
-
+// Create an array that contains the first names of 5 people you know.
+// Select the oldest person from the array and store that into a variable.
+// Output the person's name on the screen like so: "The oldest person I know is XYZ"
 
 
