@@ -38,7 +38,6 @@ small {
 }
 
 a {
-  color: #990000;
   text-decoration: none;
   padding: 5px 10px;
   font-size: 0.75em;
@@ -48,7 +47,6 @@ a {
 .tasks-remaining {
   font-size: 0.75rem;
   text-align: center;
-  color: #990000;
   padding: 20px;
 }
 
@@ -69,7 +67,6 @@ a {
 /* Individual task list items and links within */
 .task {
   height: 50px;
-  position: relative;
   border-bottom: 1px solid #e4e4e4;
   cursor: pointer;
   padding-top: 10px;
@@ -80,8 +77,6 @@ a {
 }
 
 .task > a {
-  position: relative;
-  top: 8px;
   font-size: 20px;
   color: black;
   padding: 0px 20px;
@@ -99,7 +94,6 @@ a {
 
 /* Bitmaker wordmark in footer */
 .footer-wordmark {
-  display: inline-block;
   max-height: 20px;
   vertical-align: middle;
 }
