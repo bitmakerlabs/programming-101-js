@@ -11,6 +11,7 @@
 // Output them to the screen like so: "They are NN years old.", substituting the values.
 
 
+
 // EXERCISE: The Lifetime Supply Calculator
 
 // Ever wonder how much a "lifetime supply" of your favorite snack is? Wonder no more!
@@ -20,6 +21,7 @@
 // Store an estimated amount per day (as a number).
 // Calculate how many you would eat total for the rest of your life.
 // Output the result to the screen like so: "You will need NN to last you until the ripe old age of X".
+
 
 
 // EXERCISE: The Temperature Converter
