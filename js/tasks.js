@@ -4,7 +4,7 @@ function updateCounter() {
   var allTasks = document.querySelectorAll(".task");
   var completedTasks = document.querySelectorAll(".task.is-complete");
   var remainingTasksCount = allTasks.length - completedTasks.length;
-  document.getElementById("counter").innerHTML = remainingTasksCount;
+  document.querySelector("#counter").innerHTML = remainingTasksCount;
 }
 
 // Run the function you just wrote to update the counter
